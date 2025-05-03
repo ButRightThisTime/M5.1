@@ -1,2 +1,3 @@
 The Branches include relevant code like an inheritance diagram,
 If you just want all the header and cpp files there is a branch for that too.
+The FactoryWorkers.cpp file contains the code to setup and print test objects.
